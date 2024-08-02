@@ -1,0 +1,147 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+body{
+    border: 0.5rem solid #e8ebe4;
+}
+.container{
+    display: flex;
+   
+    
+    
+}
+
+.contactos{
+    background-color:#fff;
+    width: 25vw;
+    min-height: 100vh;
+    min-width: 250px;
+  
+}
+.imagen-grande{
+    background-color:#fff;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.usuario{
+    display: flex;
+    padding: 10px 20px;
+    border: 2px solid #e8ebe4;
+    
+}
+
+.usuario-conectado img{
+     width: 40px;
+    border-radius: 50%;
+   
+    
+}
+
+
+
+.imagen-grande img {
+    width: 25%;
+    border-radius: 20px;
+    padding-bottom: 2rem;
+    
+}
+.imagen-grande{
+    background-color: #f8f8f8;
+}
+
+.iconos {
+    padding-left: 60px;
+    padding-top: 10px;
+    font-size:25px;
+    color: #BEC1BE;
+   
+    
+    }
+
+.nombre-usuario{
+    padding-left: 10px;
+}
+.nombrep{
+    padding-left:15px;
+}
+.btn-nuevo-chat{
+    background-color: #A491D2;
+    color: #fff;
+    text-decoration: none;
+    padding:1rem;
+    width: 12.5rem;
+    border: none;
+    font-size: 1.2rem;
+}
+.div-btn-nuevo-chat{
+    margin:0;
+    border: 2px solid #e8ebe4 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    
+    
+    
+}
+
+.borde{
+    border: 2px solid #e8ebe4;
+} 
+
+.usuarios-contactos img {
+    width: 60px;
+    border-radius: 50%;
+}
+.nombre-contactos{
+    padding-left: 10px;
+    padding-top: 10px; 
+    color: #444749 ;
+    font-size: 1rem;
+    
+}
+.nombrep-contactos{
+    
+    font-size: 1.2rem;
+}
+.gris {
+    color: #BEC1BE;
+    font-family:"Roboto", sans-serif;
+    font-weight:light;
+    font-size: small;
+}
+ h1{
+    font-family: "Roboto", sans-serif;
+    font-size: 3.2rem;
+    font-weight:400;
+    color:#1B1F21;
+   margin-top: 0;
+   
+    
+   }
+
+h6{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+   
+    font-weight: 400;
+    color:#1B1F21;
+    margin-top: 0.3rem;
+
+
+}
+p {
+    font-family: "Roboto", sans-serif;
+    
+}
+
+
+   
